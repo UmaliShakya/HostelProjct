@@ -1,0 +1,30 @@
+        #body-part {
+            height: 100vh;
+        }
+        
+        #sidebarMenu {
+            background-color: rgb(6, 184, 184);
+        }
+        
+        .nav-link {
+            color: ghostwhite;
+        }
+        
+        .text-center {
+            text-align: center;
+        }
+        
+        .dropdown-toggle {
+            cursor: pointer;
+        }
+        
+        #part1 {
+            height: 35vh;
+            font-family: 'Times New Roman', Times, serif
+        }
+        
+        #part2 {
+            height: 50vh;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        /* CSS for dashborad */
